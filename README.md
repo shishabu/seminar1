@@ -14,7 +14,7 @@
 3. CMS:
     1. Drupal — content-фильтр Markdown
     2. Magento — с помощью модуля
-    3. Plone — «родная» поддержка в Plone 3
-    4. TYPO3 — с помощью плагина af_markdown
-    5. RadiantCMS — один из видов разметки, доступный «из коробки»
+    3. Plone — «родная» поддержка в Plone 3
+    4. TYPO3 — с помощью плагина af_markdown
+    5. RadiantCMS — один из видов разметки, доступный «из коробки»
     
