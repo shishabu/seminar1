@@ -25,7 +25,7 @@
 Сайт        | daringfireball.net/proje…
 
 #### Markdown Syntax in gedit
-![](https://ru.wikipedia.org/wiki/Markdown#/media/File:Markdown_Syntax_in_gedit.png)
+![](https://upload.wikimedia.org/wikipedia/commons/9/94/Markdown_Syntax_in_gedit.png)
 
 
 
