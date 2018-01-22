@@ -23,3 +23,6 @@
 Разработчик | Джон Рубер 
 Опубликван  | 2004-03-19; 5056 дней тому назад
 Сайт        | daringfireball.net/proje…
+
+#### Markdown Syntax in gedit
+![](https://ru.wikipedia.org/wiki/Markdown#/media/File:Markdown_Syntax_in_gedit.png)
